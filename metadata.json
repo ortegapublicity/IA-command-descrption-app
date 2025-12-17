@@ -1,0 +1,5 @@
+{
+  "name": "Photo Instruction Generator",
+  "description": "An AI-powered tool that compares original photos with edited versions and generates precise, imperative editing instructions.",
+  "requestFramePermissions": []
+}
